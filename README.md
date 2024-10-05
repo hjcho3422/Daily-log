@@ -38,4 +38,16 @@
 2. 
 
 ### Tip
-1. 
+1. jupyter notebook kernel 설치 및 등록
+    ```
+    pip install jupyter ipykernel
+
+    python -m ipykernel install --user --name=aimet_env --display-name="AIMET Environment"
+    ```
+2. PYTHONPATH 설정 (이 부분은 언제 필요한지 모르겠음) & 확인
+    ```
+    export PYTHONPATH=$PYTHONPATH:/home/test/projects/aimet/build/artifacts:/home/test/projects/aimet/TrainingExtensions/common/src/python:/home/test/projects/aimet/TrainingExtensions/torch/src/python
+
+    import os
+    print(os.environ.get('PYTHONPATH'))
+    ```
