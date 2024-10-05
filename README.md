@@ -36,3 +36,6 @@
     2. aimet example 실행 방법
 
 2. 
+
+### Tip
+1. 
