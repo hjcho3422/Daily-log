@@ -1,5 +1,10 @@
+# 24.10.07
+1. Qualcomm AI 3종 세트 (https://www.qualcomm.com/developer/artificial-intelligence#overview)
+   1. Qualcomm® Neural Processing SDK
+   2. Qualcomm® AI Engine Direct SDK
+   3. AI Model Efficiency Toolkit (AIMET)
+
 # 24.10.06
-### 정리해야 할 것
 1. aimet 실습
     1. aimet build 방법
     - python3.11 이상에서 build 수행 함 (3.10은 실패, 3.12까지 해봄)
@@ -35,7 +40,7 @@
 
     2. aimet example 실행 방법
 
-2. 
+2. 정리 필요함
 
 ### Tip
 1. jupyter notebook kernel 설치 및 등록
