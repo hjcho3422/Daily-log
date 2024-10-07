@@ -3,6 +3,8 @@
    1. Qualcomm® Neural Processing SDK
    2. Qualcomm® AI Engine Direct SDK
    3. AI Model Efficiency Toolkit (AIMET)
+  
+2. Neural Processing SDK와 AI Engine Direct SDK 차이점은 무엇일까?
 
 # 24.10.06
 1. aimet 실습
