@@ -1,3 +1,8 @@
+# 24.11.01
+1. 주말에 해야 할 일
+   1. ONNX Runtime 실행해 보자 (Pytorch → ONNX Model 변환 및 내부 구조 확인)
+      - Pytorch와 ONNX Model 내부 구조 비교해 보자
+
 # 24.10.07
 1. Qualcomm AI 3종 세트 (https://www.qualcomm.com/developer/artificial-intelligence#overview)
    1. Qualcomm® Neural Processing SDK
