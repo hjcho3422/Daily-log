@@ -3,8 +3,9 @@
    1. ONNX Runtime 실행해 보자 (Pytorch → ONNX Model 변환 및 내부 구조 확인)
       - Pytorch와 ONNX Model 내부 구조 비교해 보자
 2. 기타 자료
-    1. A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly
-    2. https://kimbg.tistory.com/26 (FLOPs란? 딥러닝 연산량에 대해서..)
+    1. The Deep Learning Compiler: A Comprehensive Survey (https://arxiv.org/pdf/2002.03794)
+    2. A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly
+    3. FLOPs란? 딥러닝 연산량에 대해서... (https://kimbg.tistory.com/26)
 
 # 24.10.07
 1. Qualcomm AI 3종 세트 (https://www.qualcomm.com/developer/artificial-intelligence#overview)
