@@ -5,7 +5,16 @@
         - pybind 사용을 위해 python-3.10을 사용하여 build 함
         - test 결과 큰 이상이 없는 것 같음
     2. cnnx2snc
-        -
+        - 이번에 수행한 내용은 cnnx2snc 과정을 이해하기 위함인데, 다음과 같은 선행 지식이 필요한 것을 알았음.
+        1. onnx 구조
+        2. snc 구조
+        3. onnx와 snc 구조의 mapping
+2. 따라서 다음과 같은 선행 학습 진행 중
+    1. onnx 구조
+        - onnx는 google의 protobuf 포맷 기반이기 때문에 onnx 구조는 여기를 보면 된다.
+        - https://github.com/onnx/onnx/blob/main/onnx/onnx.proto3
+
+
 
 
 # 24.11.01
