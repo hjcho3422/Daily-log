@@ -13,9 +13,7 @@
     1. onnx 구조
         - onnx는 google의 protobuf 포맷 기반이기 때문에 onnx 구조는 여기를 보면 된다.
         - https://github.com/onnx/onnx/blob/main/onnx/onnx.proto3
-
-
-
+        - onnx 관련 진행사항은 별도 링크를 통해서 정리한다.
 
 # 24.11.01
 1. 주말에 해야 할 일
