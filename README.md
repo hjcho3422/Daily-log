@@ -1,3 +1,13 @@
+# 25.04.27
+1. 주말에 진행한 내용
+    1. SNC-API 다운로드 및 빌드
+        - SNC-API 자체가 오래전에 개발된 내용이라 우분투 18.04 도커를 활용하여 빌드 하였음
+        - pybind 사용을 위해 python-3.10을 사용하여 build 함
+        - test 결과 큰 이상이 없는 것 같음
+    2. cnnx2snc
+        -
+
+
 # 24.11.01
 1. 주말에 해야 할 일
    1. ONNX Runtime 실행해 보자 (Pytorch → ONNX Model 변환 및 내부 구조 확인)
@@ -12,7 +22,7 @@
    1. Qualcomm® Neural Processing SDK
    2. Qualcomm® AI Engine Direct SDK
    3. AI Model Efficiency Toolkit (AIMET)
-  
+
 2. Neural Processing SDK와 AI Engine Direct SDK 차이점은 무엇일까?
 
 # 24.10.06
@@ -20,7 +30,7 @@
     1. aimet build 방법
     - python3.11 이상에서 build 수행 함 (3.10은 실패, 3.12까지 해봄)
     - 필요 라이브러리 설치
-    
+
     ```
     sudo apt-get install ccache libjasper-dev libopenblas-dev libatlas-base-dev python3-pybind11
 
@@ -38,9 +48,9 @@
     - numpy version 확인 & numpy.disutils 확인 & torch version 확인
     ```
     python -c "import numpy; print(numpy.__version__)"
-    
+
     python -c "from numpy import distutils; print(distutils.__file__)"
-    
+
     python -c "import torch; print(torch.__version__)"
     ```
 
